@@ -27,6 +27,8 @@ Este proyecto ha sido desarrollado en Google Colab y este repositorio se ha crea
 
 ### Nota
 
-Proyecto realizado con Anaconda y Python 3 
+Proyecto realizado con Python 3 utilizando diferentes librerías, a destacar Pandas y Keras 
 
-Los comentarios de proyecto están junto con el código.
+Los comentarios del proyecto se han ido anotando junto con el código.
+
+Esta versión presentada es la tercera, se han hecho bastantes pruebas y se ha trabajado duro para poder ralizar un buen trabajo, pero al final a salido menos de lo que esperaba. Pensaba que llegaría al final y conseguiría unos resultados aceptables, pero me he quedado a las puertas de poder combinar imágenes y datos en una regresión para poder hacer una predicción de precios de alquiler combinando las imágenes con las variables numéricas.
