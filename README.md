@@ -1,6 +1,6 @@
 # DeepLearningPT
 Entrega de la práctica del módulo de Deep-Learning
-La última versión correcta es la DeepLearningPTv03_02
+La versión correspondiente a la segunda entrega es la DeepLearningPTv03_02
 ### Objetivo
 El objetivo de la práctica final del módulo de Deep Learning consiste en predecir el precio de habitaciones de AirBnb utilizando para ello todas las características disponibles en el dataset facilitado.
 El propósito final es tener un sistema que se combinen distintos tipos de características (numéricas, texto, imágenes...) y que se explique cómo se ha realizado.
