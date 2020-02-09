@@ -1,6 +1,6 @@
 # DeepLearningPT
 Entrega de la práctica del módulo de Deep-Learning
-
+La última versión correcta es la DeepLearningPTv03_02
 ### Objetivo
 El objetivo de la práctica final del módulo de Deep Learning consiste en predecir el precio de habitaciones de AirBnb utilizando para ello todas las características disponibles en el dataset facilitado.
 El propósito final es tener un sistema que se combinen distintos tipos de características (numéricas, texto, imágenes...) y que se explique cómo se ha realizado.
@@ -31,4 +31,5 @@ Proyecto realizado con Python 3 utilizando diferentes librerías, a destacar Pan
 
 Los comentarios del proyecto se han ido anotando junto con el código.
 
-Esta versión presentada es la tercera, se han hecho bastantes pruebas y se ha trabajado duro para poder ralizar un buen trabajo, pero al final ha salido menos de lo que esperaba. Pensaba que llegaría al final y conseguiría unos resultados aceptables, pero me he quedado a las puertas de poder combinar imágenes y datos en una regresión para poder hacer una predicción de precios de alquiler combinando las imágenes con las variables numéricas.
+Esta versión presentada es la tercera, se han hecho bastantes pruebas y se ha trabajado duro para poder ralizar un buen trabajo, pero al final ha salido menos de lo que esperaba. Pensaba que llegaría al final y conseguiría unos resultados aceptables, pero me he quedado a las puertas de poder combinar imágenes y datos en una regresión para poder hacer una predicción de precios de alquiler combinando las imágenes con las variables numéricas y categóricas.
+Se ha hecho una revisión de la versión 3, donde se ha podido avanzar un poco más, pero si logros espectaculares.
