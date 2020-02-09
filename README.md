@@ -27,7 +27,7 @@ Este proyecto ha sido desarrollado en Google Colab y este repositorio se ha crea
 
 ### Nota
 
-Proyecto realizado con Python 3 utilizando diferentes librerías, a destacar Pandas y Keras 
+Proyecto realizado con Python 3 utilizando diferentes librerías, a destacar Pandas, Keras, Numpy
 
 Los comentarios del proyecto se han ido anotando junto con el código.
 
